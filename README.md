@@ -35,11 +35,10 @@ Books Consulting App is a mobile application that allows users to search for boo
 ## 📷 Screenshots
 
 ### 🔍 Search for Books
-![searchPage.png](assets/searchPage.png)
+<img src="assets/searchPage.png" alt="Search for Books" style="width: 250px;">
 
 ### 📖 View Book Details and Share
-![sharePage.png](assets/sharePage.png)
-
+<img src="assets/sharePage.png" alt="View Book Details and Share" style="width: 250px; float: left;">
 
 ## 🤝 Contributing
 
