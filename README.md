@@ -11,10 +11,10 @@ Books Consulting App is a mobile application that allows users to search for boo
 
 ## 🛠 Technologies Used
 
-- 📝 **Java**
-- 🌐 **Retrofit** (for API calls)
-- 🗃 **Gson** (for JSON serialization/deserialization)
-- 🖼 **Picasso** (for image loading)
+- **Java**
+- **Retrofit** (for API calls)
+- **Gson** (for JSON serialization/deserialization)
+- **Picasso** (for image loading)
 
 ## 🚀 Installation
 
