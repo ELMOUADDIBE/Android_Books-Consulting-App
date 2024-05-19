@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tpRestApiBdcc</string>
+    <string name="button_search">Search</string>
+    <string name="hint_search">search here!</string>
+    <string name="book_image">Book Image</string>
+    <string name="button_share">Share</string>
+
+
+</resources>
